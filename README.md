@@ -14,4 +14,4 @@
   
 </p>
 
-by Anidom [FOX](https://giphy.com/anidom/).
+gif by Anidom [FOX](https://giphy.com/anidom/).
