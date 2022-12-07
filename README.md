@@ -7,15 +7,6 @@
 - 📫 How to reach me: nicolo.tellini@etu.univ-cotedazur.fr
 
 
+![giphy](https://user-images.githubusercontent.com/69108704/206118445-044f326f-68f8-4a0d-9835-abffc9c36e94.gif)
 
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-<div align=center>
-  <img  src="https://natedsanders.com/ItemImages/000013/40956_med.jpeg" width="80%" height="40%" />
-</div>
-
-
-<!---
-nicolo-tellini/nicolo-tellini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+by Anidom [FOX](https://giphy.com/anidom/).
