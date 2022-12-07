@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @nicolo-tellini
+- 
 - 👀 I’m interested in clickety-clack.
+- 
 - 🌱 I’m currently learning!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... don't!
+- 
+- 📫 How to reach me: nicolo.tellini@etu.univ-cotedazur.fr
+
 
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
