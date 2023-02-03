@@ -11,3 +11,5 @@
 </p>
 
 gif by Anidom [FOX](https://giphy.com/anidom/).
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
