@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning!
 
-- 📫 How to reach me: nicolo.tellini@etu.univ-cotedazur.fr
+- 📫 How to reach me: bioinformaticscode.tellini@gmail.com
