@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @nicolo-tellini
+👋 Hi, I’m @nicolo-tellini
+I’m currently working on:
 
-- 🌱 I’m currently learning!
 
-- 📫 How to reach me: bioinformaticscode.tellini@gmail.com
+
+📫 How to reach me: bioinformaticscode.tellini@gmail.com
