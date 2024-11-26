@@ -1,6 +1,6 @@
 👋 Hi, I’m @nicolo-tellini
 
-I’m currently working on:
+I’m currently working full time on:
 
 <img src="https://github.com/nicolo-tellini/nicolo-tellini/blob/main/logosgrp5ok" alt="SGRP5" width="200" />
 
