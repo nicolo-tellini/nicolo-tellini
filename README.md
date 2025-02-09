@@ -10,3 +10,7 @@ I am currently working full-time on:
 
 ## GitHub Stats
 ![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolo-tellini&show_icons=true&theme=radical)
+
+## Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolo-tellini&layout=compact&theme=dark)
+
