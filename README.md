@@ -4,25 +4,21 @@ I speak bash and R.
 
 I am currently working full-time on:
 
-Island paradox
+Island paradox and 
 
-<img src="https://github.com/nicolo-tellini/nicolo-tellini/blob/main/Gal%201223%20Scalesia%20pedunculata.jpg" alt="SGRP5" width="100" />
+contributing to 
 
-and contributing to: 
+1) Saccharomyces Genome Resequencing Project ( [SGRP5](https://sgrp5.wordpress.com/)
+)
 
-Saccharomyces Genome Resequencing Project 
+2) [RepAdapt](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://yeamanlab.weebly.com/repadapt.html&ved=2ahUKEwiW78DNtL2QAxX1SKQEHcjlK8gQFnoECB8QAQ&usg=AOvVaw3kWE8UW3t6_ciRXyZgHN0)
 
-<img src="https://github.com/nicolo-tellini/nicolo-tellini/blob/main/logosgrp5ok" alt="SGRP5" width="100" /> 
+3) Sparrow Evolution
 
-Passer Evolution
-
-
-
-📫 You can email me at bioinformaticscode.tellini@gmail.com
+📫 You can email me at tellinin@ibv.uio.no
 
 ## GitHub Stats
 ![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolo-tellini&show_icons=true&theme=radical)
 
 ## Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolo-tellini&layout=compact&theme=dark)
-
