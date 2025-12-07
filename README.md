@@ -17,6 +17,8 @@ contributing to
 
 4) Argyranthemum
 
+invetsing time learning Nextflow
+
 📫 You can email me at tellinin@ibv.uio.no
 
 ## GitHub Stats
