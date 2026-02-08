@@ -17,6 +17,8 @@ contributing to
 
 4) Argyranthemum
 
+5) de novo assemblying genomes for multiple purposes 
+
 invetsing time learning Nextflow
 
 📫 You can email me at tellinin@ibv.uio.no
